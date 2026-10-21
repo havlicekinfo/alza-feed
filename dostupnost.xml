@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<SHOP>
-    <SHOPITEM>
-        <PRODUCT_NAME>Název produktu</PRODUCT_NAME>
-        <PRICE>490.00</PRICE>
-        <VAT>21</VAT>
-        <QUANTITY>100</QUANTITY>
-        <EAN>SEM_EAN</EAN>
-        <ITEM_ID>SEM_SKU</ITEM_ID>
-    </SHOPITEM>
-</SHOP>
+<SHOPITEM>
+    <PRODUCT_NAME>Evakuační zavazadlo - plně vybavené</PRODUCT_NAME>
+    <PRICE>6528.93</PRICE>
+    <VAT>21</VAT>
+    <QUANTITY>5</QUANTITY>
+    <EAN>08593085173117</EAN>
+    <ITEM_ID>PLNY-BATOH-NA-72H</ITEM_ID>
+</SHOPITEM>
