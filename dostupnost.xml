@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SHOP>
+    <SHOPITEM>
+        <PRODUCT_NAME>Název produktu</PRODUCT_NAME>
+        <PRICE>490.00</PRICE>
+        <VAT>21</VAT>
+        <QUANTITY>100</QUANTITY>
+        <EAN>SEM_EAN</EAN>
+        <ITEM_ID>SEM_SKU</ITEM_ID>
+    </SHOPITEM>
+</SHOP>
